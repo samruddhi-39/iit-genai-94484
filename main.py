@@ -11,4 +11,8 @@ len=int(input("enter length: "))
 br=int(input("enter br: "))
 
 geo.calc_rect_area(len,br)
+<<<<<<< Updated upstream
 geo.calc_rect_peri(len,br)
+=======
+geo.calc_rect_peri(len,brpy)
+>>>>>>> Stashed changes
