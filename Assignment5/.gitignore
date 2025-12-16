@@ -1,0 +1,6 @@
+
+#---Virtual environment---
+venv_aasi3/
+
+#---dotenv file---
+.env
