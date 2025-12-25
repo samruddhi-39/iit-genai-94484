@@ -3,7 +3,6 @@
 # Create a Streamlit application that allows users to upload a CSV file and view its schema.Use an LLM to convert user questions into SQL queries, execute them on the CSV data using pandasql, and explain the results in simple English.
 
 
-
 import streamlit as st
 import pandas as pd
 from langchain_groq import ChatGroq
