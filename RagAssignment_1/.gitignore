@@ -1,0 +1,8 @@
+#...Virtual Enviornment..
+venv_rag
+
+#..Resumes 
+resumes/
+
+#...Chromadb
+chroma_db/
