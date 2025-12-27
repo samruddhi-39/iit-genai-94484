@@ -1,0 +1,7 @@
+venv_rag
+
+resumes/
+
+chroma_db/
+
+__pycache__
